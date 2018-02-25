@@ -1,0 +1,6 @@
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/obj/x86/Debug/OpenPoint.csproj.CoreCompileInputs.cache
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/bin/Debug/OpenPoint.dll
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/bin/Debug/OpenPoint.pdb
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/bin/Debug/Neo.SmartContract.Framework.dll
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/obj/x86/Debug/OpenPoint.dll
+/Users/apisit/O3Labs/SmartContracts/OpenPoint/OpenPoint/obj/x86/Debug/OpenPoint.pdb
